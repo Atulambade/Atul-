@@ -1,2 +1,0 @@
-# Atul-
-python developer
